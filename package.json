@@ -1,0 +1,23 @@
+{
+  "name": "grovestreet",
+  "version": "1.0.0",
+  "description": "Grovestreet website stuff",
+  "main": "index.js",
+  "scripts": {
+	"run" : "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camerontsmall/grovestreet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camerontsmall/grovestreet/issues"
+  },
+  "homepage": "https://github.com/camerontsmall/grovestreet#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
